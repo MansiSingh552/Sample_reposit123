@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\bob\\Desktop\\Programing\\fundamentals_ShapeAI",
+      "environment": [],
+      "program": "c:\\Users\\bob\\Desktop\\Programing\\fundamentals_ShapeAI\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false
+    }
+  ]
+}
